@@ -1,0 +1,20 @@
+h1 {
+    color: #fad100;
+    font-size:40px;
+    background-color:#B04896;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  margin: 30px;
+}
+p {
+    text-align: center ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:22px;
+}
+img {
+width: 600px;
+height: 600px;
+margin-left: 300px;
+    
+}
+
